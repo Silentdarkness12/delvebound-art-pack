@@ -1,0 +1,39 @@
+{
+  "id": "delvebound-art-pack",
+  "title": "Delvebound Art Pack",
+  "description": "An unofficial addon for the Delvebound module for D&amp;D Fifth Edition, seamlessly integrating avatar, token art and item art for hundreds of sheets across the system. Once activated and enabled, no further modifications are needed to provide a quick and easy art setup for the various creatures in your campaign!",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [],
+  "styles": [],
+  "relationships": {
+    "requires": [
+      {
+        "id": "delvebound",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Sirus",
+      "discord": "sirus.exe"
+    }
+  ],
+  "flags": {
+    "delvebound-art-pack": {
+      "dnd5e-art": "modules/delvebound-art-pack/map-dnd5e.json"
+    }
+  }
+}

@@ -1,0 +1,5226 @@
+{
+  "dnd5e.monsters": {
+    "nU8GN8La8DCt8SDb": {
+      "actor": "modules/delvebound-art-pack/assets/avatar/avatar_5eskeleton.webp",
+      "token": {
+        "texture": {
+          "src": "modules/delvebound-art-pack/assets/token/token_5eskeleton.png",
+          "scaleX": "1.0",
+          "scaleY": "1.0"
+        }
+      }
+    }
+  },
+  "delvebound.delvebound-actors":{
+	  "0tzPMa0zKhlf2RLT": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_addax.webp",
+      "token": {
+        "texture": {
+          "src": "modules/delvebound-art-pack/assets/token/token_addax.png",
+          "scaleX": "1.0",
+          "scaleY": "1.0"
+        }
+      }
+	},
+	"U5lqqNkXquN4Ftf7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alinor_ringtail.webp",
+	   "token": {
+		   "texture": {
+			   "src": "modules/delvebound-art-pack/assets/token/token_alinor_ringtail.png",
+			   "scaleX": "0.5",
+			   "scaleY": "0.5"
+		   }
+	   }
+	},
+	"ZybiTyYTGsf5LJB9": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_antelope.webp",
+	   "token": {
+		   "texture": {
+			   "src": "modules/delvebound-art-pack/assets/token/token_antelope.png",
+			   "scaleX": "1.0",
+			   "scaleY": "1.0"
+		   }
+	   }
+	},
+	"HICpz1uEgPWKyK0k": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_badger.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_badger.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"N7mT9yoULpy9U3Cv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bear_cub.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bear_cub.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"L8mgShcD9zSY6mET": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_blue_oasis_dragon_frog.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_blue_oasis_dragon_frog.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"vlNzY0NFVhO2BQhI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_chub_loon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_chub_loon.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"tF5l0Wi3QbfDPjpv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_copper_tongued_skink.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_copper_tongued_skink.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"55Q4etHVnREJ2oPT": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_scarab.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_scarab.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"R5RCCmobiqHT1gKf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_scarab.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_scarab.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"w705wUOtWPuQgbt8": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_fellrunner.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_fellrunner.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"K6zTUTRH96fyMkRm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_fennec_fox.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_fennec_fox.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"mT4rvNVaQNxCEF6F": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flying_squirrel.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flying_squirrel.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"JgBw3UMUEWn09Ae6": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goat.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goat.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bk44yXJZTWD9QEMw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_heron.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_heron.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"L0xL3zPq8WkVX30x": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_jackal.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_jackal.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"b1LirgfkizsGk1Be": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_jerboa.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_jerboa.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"ZkJbARTPTRJzVegZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_monkey.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_monkey.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"nbcTez4satvAv99R": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_rabbit.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_rabbit.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"zaiA1KSzqTJwRmbZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_salamander.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_salamander.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"CMS9DBLUUeW51prg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_shroom_beetle.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_shroom_beetle.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"IMcUsrYwWGqM2vgM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_springbok.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_springbok.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"43BdjrFsbgINgLt5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_squirrel.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_squirrel.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"OJJnd3VTI3Q4Jdf5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_swamp_jelly.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_swamp_jelly.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"rzFw6s9Mo1daZqF9": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vale_deer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vale_deer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"0GPX97t6PU1AjGHV": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vulture.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vulture.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"k18aKncfzvyD9CeR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vvardvark.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vvardvark.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"sjTzuLa41PNfymDq": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_brawler.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_brawler.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"IZF6FGxHxf7e7PIO": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_camel.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_camel.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"CJKWvWaOJN0bfdSY": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_chaurus_hatchling.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_chaurus_hatchling.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"xAnsuL9AVoDEbtr0": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_daedra_spiderling.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_daedra_spiderling.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"bPXOUAbshREreWVZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_daedrat.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_daedrat.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"ZBR6ydu8nje7lSBs": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_sentry.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_sentry.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"X0fn3CTc5iWKEn32": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_husky.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_husky.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"cy1MIfbdfIEEbbsX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_jackal.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_jackal.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"h0Y61zXPeXo9Deyk": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_kotu_gava.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_kotu_gava.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"d67mGo417IepKAgS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_lynx.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_lynx.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"sSC309nRQnW1NXyg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_mudcrab.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_mudcrab.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"hObEqbEhFWlN1FkJ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_nixad.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_nixad.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"d4PSN8x5DyPgq2oU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_nixad.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_nixad.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"1PxqFv3LyRuocxKA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_sep_adder.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sep_adder.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"M4WTnTh8Ajw7BE0t": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_battlefield_healer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_battlefield_healer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"wUNrQel66yUYuHDZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bone_hawk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bone_hawk.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"lvd0MtxHgJndkvye": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_daggerback.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_daggerback.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7EEN1Ye6xvFuAaGw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_durzog.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_durzog.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ng6bZUkO83bSSgsv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_spider.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_spider.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"EZEOdORLeWyqFKgR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_elk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_elk.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"D4tJsGqTssUWfytm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flame_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flame_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"idvUTW9etgLBuAuz": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"AgveRpYxg7lTYl0I": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"a1zc1mQydql3q3YF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"EI1AjrlwKCktSUkM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"DHkMOKaticdDzRLK": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"5AF2KlF2qg0KZJmd": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"65wA7LYKm1H5qd6C": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"a7JD7R2fprhZij1I": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"rmQUt3Suus6kKXms": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"SL0tiTrQ9Vnjzdgf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_horker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_horker.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"rk68tWB9npi1NzTU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_moon-singer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_moon_singer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ZZHPTPNd4eujofLj": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_mountain_lion.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_mountain_lion.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"PLllNQ7ExOGJyOMw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_riekling.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_riekling.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"N0wkJqhDxgeSVr2s": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_riekr.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_riekr.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"ZzM5ynkuaZGY7vFr": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_senche_noble.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_senche_noble.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"1XqQ3t2Giq0QFblD": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_smuggler.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_smuggler.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"jHoUq27ufVWR7FzU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_swarm_of_kotu_gava.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_swarm_of_kotu_gava.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"9ChkS9f2Dz23d7i8": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_tusked_bristleback.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_tusked_bristleback.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"0wKauwvXJPIOLRpM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_frost_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_frost_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"J8Pqkt9RbOIKASlJ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wisp.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wisp.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"dE05E4ZkJQYlbkoA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_yaghra_larva.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_yaghra_larva.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"IpNYC1NQNNONA96q": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_beastmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_beastmaster.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"glvtBj3DgpzE9qZF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_deceiver.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_deceiver.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"V4fjDCJWk5IxkqRu": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_banekin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_banekin.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"BRgvtJz7hHJoJYdn": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bog_blight.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bog_blight.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"QASygPHb5nbDMAIZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bone_wolf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bone_wolf.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"guEVdLpSrtSOAfN5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_clannfear_runt.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_clannfear_runt.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"MFrgKWbYs4QECcon": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_coral_crab.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_coral_crab.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"qMsJhlGhy8HLezCg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_crocodile.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_crocodile.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"80d4b5iZSSMt5Q5b": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stone_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stone_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"wd1vsCvJGO0DigKr": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dreugh.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dreugh.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"dnQVU1izWjk7VUaC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_explorer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_explorer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"GLYunoBfIMCuVQCD": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_falmer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_falmer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"yekfW3T1bQ5kMhVf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flame_wyrm.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flame_wyrm.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"PO8a6PywwlPXO1YU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant_forest_spider.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant_forest_spider.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"UICjgKiKvR6Oth7t": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant_wasp.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant_wasp.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bsKv7o3B4a5fcmyV": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"C5D0buWgOX46zgY5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"rrAh5YVZIZNUZ8i0": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"sPodiBLpfEPlLZEy": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"nrI5eIpbVKGS2uSf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"yFPalQvcYJAJkQYQ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"vyOzNF0tCDkts1gN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"SvihmdsEo2gmIgm9": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"0q9qKgThwThqdBh4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"T4fjHoJqhdP4hc6L": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_gryphon_hatchling.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_gryphon_hatchling.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"1X3u9ngZj9V5tE3f": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hackwing.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hackwing.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"vX3hvtLoAetwp2mK": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_kotu_gava_broodmother.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_kotu_gava_broodmother.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"wHp7ptp2qvTxcDsw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_swamp_jelly.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_swamp_jelly.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"BonogdosQDrIMsWe": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_swamp_jelly.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_swamp_jelly.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"wW5dLWNYCZ2D302I": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_scamp.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_scamp.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"3NeU4lAmQTk5rua7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_senche-tiger_skeleton.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_senche-tiger_skeleton.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"ok4HoGaRi5eGkHYg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skeever.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skeever.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"XMpOhdEqWYGC6AUB": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_slaughterfish.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_slaughterfish.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"yEBo8ZvVy1p63BNI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stricken.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stricken.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"kNXtt0bnLjHCDuyg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_thunderbug.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_thunderbug.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"TXIBVbTbUXr533eN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_timber_wolf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_timber_wolf.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"UfOtJrFflZqAkfzC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vateshran.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vateshran.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"V1ho3hDuMom610ZC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_voriplasmic_skeleton.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_voriplasmic_skeleton.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"2kVyRBTZ8CccpkwJ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_yaghra_spewer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_yaghra_spewer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"mm4wf47MmsJn2mHc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_adoring_fan.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_adoring_fan.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Je0H8PWEVl7Kd5zc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alit.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alit.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"pJeDbHSWBMhbKTSf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_azureblight_wyrm.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_azureblight_wyrm.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"gl1fFNX56SUP8olC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_ambusher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_ambusher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"GcJHMWv7cWDm0wP5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_hedge_wizard.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_hedge_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8tcHKhGpopfF3LzS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_neckbreaker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_neckbreaker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"R8qSpiFh2DQUwO9v": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bone_flayer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bone_flayer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"RBfpB6fdcdKnjMsw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bonechime_poacher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bonechime_poacher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Otw0Vwn9NB931zmz": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_chaurus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_chaurus.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"NN8y32aIcXpP9EEe": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dire_wolf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dire_wolf.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"NYapbV7kAkQvUOef": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_draugr.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_draugr.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"yERMjW97oe2QhLNX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_draugulf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_draugulf.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"m2VX4DHusO2yIYpy": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_sphere.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_sphere.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"SVHcDs47A37EIiYY": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_sphere.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_sphere.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"kL8LyUgf33JUsbEH": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_falmer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_falmer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ET2nD0sIhvbRaYXx": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8krh8BxoBfLO7je7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Hgyiu86JcgNHP1oy": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"1dbUVX28nYutz76l": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"HeVSjY3ReP9U1Ruj": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"yMqkp8fx658er0j5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"YglCk12XBaUU2Eln": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"6gm4QlEoOXKTR4xi": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"uccn4pI7Bg0zqPGc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_berserker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_berserker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8IvMV4RQJzXL9KKS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"LLb1fNJiPVf6DQTl": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"dNjwF7g9wEeH4el4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"W8piBEd1j0JGzTEX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"5TjqbMDo9u7AaiUB": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"TSLxYKoBF5MO7YWA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"2VZ0VVWiCYQx8EL8": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"syHI3Ny2oZsZtAgd": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"FVP6JOF5UgsyFcpD": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_packmaster.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_packmaster.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"DoyqhODFP1pfHajx": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_gold_coast_smuggler.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_gold_coast_smuggler.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"OC0ishgEt7GMcupU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_harpy.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_harpy.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7pu1LPSLudSrcisX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_headless_zombie.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_headless_zombie.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"4BQrbCNJJ88Vssnz": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hoarvor.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hoarvor.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"FWak2qTFiBEPGdX8": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ice_wraith.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ice_wraith.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"AIaCogBxG3Y1wRS5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_mudcrab_of_eternal_doom.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_mudcrab_of_eternal_doom.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"Sr7V3jb9YW3KwrfI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_naga_skirmisher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_naga_skirmisher.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"qz3BbbkNtElJtsOq": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_pocket_watcher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_pocket_watcher.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"YEgPQFFVAdBvPexU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_pocket_watcher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_pocket_watcher.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"2Y3VS0w2JO1lMXwZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_reachfolk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_reachfolk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"GTUFNCRoxyPlXyEU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_senche-lion.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_senche-lion.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"t63WVV6MzQaBMkqv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_senche-tiger.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_senche-tiger.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"sg3iwUxhtESr6LMe": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skaafin_wretch.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skaafin_wretch.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"QMkAcLwsdBMSne6n": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_soldier.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_soldier.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"L9Y8Viw21So5FXaw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_storm_wyrm.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_storm_wyrm.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"85Ir1Z0cQRxsBVQn": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_strangler.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_strangler.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"wZqEvCrIs17GtR7d": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_thicketman_spectre.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_thicketman_spectre.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Ws6kLc9ara1rSEAG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_frost_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_frost_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"xpHXkxxickqCIJ0B": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_yaghra_strider.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_yaghra_strider.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ifXdV3IttyJSmdYn": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_duneripper.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_duneripper.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"uJZZADV10OJUwCl7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alchemist.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alchemist.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"GmPSj2qii1LeASBD": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alit.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alit.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"5FT07h6mjEtsbSNX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ash_spawn.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ash_spawn.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"BapzWBgnvyBNdI4k": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_assassin_beetle.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_assassin_beetle.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"H478KN8dQiZgfWzZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_black_marsh_warden.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_black_marsh_warden.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"hGoUxyF4rLnOoUcY": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_cavalier.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_cavalier.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"O9DMCP8YyZQHhR1N": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_college_acolyte.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_college_acolyte.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"f8W4nAuzj0GgDOPJ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_company_mercenary.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_company_mercenary.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"xWmUun0GYMnaKLSS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dawnguard_scout.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dawnguard_scout.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"fcRhu2VjGYpXEwqu": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_death_hound.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_death_hound.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"YW9hRSQQsBMOhffg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_churl.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_churl.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8wjWRCwQwSVZ2ffX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_churl.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_churl.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"sZCXBsVLb668oWqb": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_ballista.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_ballista.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bzSLqNWIEfiZ5dwc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_falmer_chitin_whisperer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_falmer_chitin_whisperer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"joX6SSii6qlZfJr4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_falmer_duskslicer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_falmer_duskslicer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"yfBs2dEckvops9hw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flame_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flame_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"GHrYoEtoaD4fkoo1": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_forsworn01.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_forsworn.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"E4q0BcDuwr9Hm6rb": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_frostbite_spider.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_frostbite_spider.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"xOKzS6tNmfXPkHoT": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_gargoyle.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_gargoyle.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"UVrkNSipyMC2FWkJ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant_wasp_queen.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant_wasp_queen.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"QDWMuMmsYoUIOMFV": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_gloomspore_senche.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_gloomspore_senche.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"hzSEu5wbO2Ssrooa": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_gloomspore_wolf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_gloomspore_wolf.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"3jsot9Fxgk1TrQdo": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_glyptodon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_glyptodon.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"zY9bVi483syMNQHl": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"86QrTc4W0FGSnsnm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"5LNndaOO7tGN60Zl": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Fmm8dh1YH2XhSpwe": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"zOKZqHwKu65gb28W": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"vV57t2PNT2tMtEcM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"T2z4V3svSJPfgGqh": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"2MU0whFnjeH9AlsI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"t9lOdJeAAzv7uhzQ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_blade_of_muluk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_blade_of_muluk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"gPOpomKYW3L6w7N5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"TqTsHezrG3QiiVuN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8hpcoMLa8xqVCW7Z": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"48xSO97lNKdsLtgn": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"5Rc4Rn6XFsq4yvxL": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"SZ92HTc1LBlE006T": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"hqJbReRfuekjRZaY": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"CRowNQOakEj2aWnE": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"lAq8Ga2L4pyVDTjq": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"jSBxF54AdqusBtvd": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"sjF0kKVJPHYsD8mQ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"cEXdEredPpdoojDn": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"AdhWwal8UswMyt4L": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"INJsPHnkZF36Je7v": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"MYvwTXfURJsaAoRB": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"608dkn5ZAzcs8R5n": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ogteFIcxjcqpzDsr": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Bl5cYqPpcYsMLVp8": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"grTgzWosuiP4TZvw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"wcoYUWcBnGh1dxOz": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"PU2MU04Vs91cat7f": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"KPozyVMo9yf2ZPkg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ag9CEZhm6QgB7VLl": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"p0aOmJBHb9uMq8IS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ujvpONzRxMGcdMQg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"uvsBoVLYphAUSRKL": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"G8IbACw9y1e9aAgm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"EDOtI0KjU98AMkE4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"MpN9lMclwlSyl2Rh": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"0hbAP3vnMk2Oc0UU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"meGSh3VphPsquXEM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"jGOIvBMX5Ja6A1OX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8057zUKunG0DNL2s": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"SUiaZpxL3VCM1T4E": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"o4eUUo6eteXISQUG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"qonzUQDs1hXXeeIC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"SPrAsKISFmJNI60n": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ogre.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ogre.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"kBgV7ObRP5EvKwUG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ogre.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ogre.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"A5ZSNaHc9rR0sTOG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_riekling_rider.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_riekling_rider.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"YcRy7V4TZUZArToA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_riekr_wildmage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_riekr_wild_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"DY8ZlCj28bLvCcaM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_saber_cat.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sabre_cat.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"C8HkOhH8Kt9cz3qF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_sar-m'athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sar-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Y9SMWhkAUy33Dkr9": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_scarecrow_spectre.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_scarecrow_spectre.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ZiIQlm1FKwhDFOs7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_shellbug.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_shellbug.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"nD91J4CYAI49wrYS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skald.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skald.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"NtZm0QvMWZV8FQ4B": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skeletal_bear.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skeletal_bear.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"vfEJ1jyAxWjKiI1L": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skeletal_mage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skeletal_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"NoQZd4IDfjzBztqc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skeleton_guardian.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skeleton_guardian.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"am9jztU4mGcNefs4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_spriggan.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_spriggan.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7WBLutzgQyf4CxpS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hunger.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hunger.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"XVwGOHiJGaSlpSLA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_swarm_of_dwarven_spiders.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_swarm_of_dwarven_spiders.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"HVtuepwDPFdGgUfL": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_terror_bird.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_terror_bird.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"LKRJ2Mfisi5XCxzU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_thalmor_soldier.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_thalmor_soldier.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"0YaRXVDgnAtP5Pci": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vale_sabre_cat.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vale_saber_cat.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"lmRZVhSiTorDyyWt": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_valiant_warrior.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_valiant_warrior.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"d8AWV4fUCeMHrgEH": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_venomspit_spider.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_venomspit_spider.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"C9SwnYDiqE1JKxdw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_warzog.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_warzog.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"6O2zUJrcIM5IHVRI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_frost_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_frost_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"GuFntcnDEEW8ymEE": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werevulture.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werevulture.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ssCMpCBAlYL2BXSA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_winged_twilight.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_winged_twilight.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"T35l9fywtnnjKTBW": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_yaghra_monstrosity.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_yaghra_monstrosity.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"O9veGcPrEfL9BVGG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werevulture.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werevulture.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"u64Vr6rx0wvOJW49": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alfiq_illusionist.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alfiq_illusionist.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"1VO8BK73LgCAGSHx": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_argonian_venomshot.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_argonian_venomshot.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"BBS5OWpJK23eqp7H": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_auroran_knight.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_auroran_knight.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"dIaO2PQd7K1dkniw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ayleid_gravecaller_wight.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ayleid_gravecaller_wight.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"BSSjkq0F8T7CXfxA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ayleid_wight.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ayleid_wight.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"qr3Obl0wVgrKolks": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_assassin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_assassin.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"pIjV92qIYRCVV4MN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bearlizard.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bearlizard.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"vGWtpHPxLvfeaivv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_black_worm_neophyte.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_black_worm_neophyte.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"w6BL3r1pr7YgyYyN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_chaurus_hunter.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_chaurus_hunter.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"5aOIfyQk6P8AjPhW": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_clannfear.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_clannfear.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"wbZiHc2pYupW5Sz5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_arquebus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_arquebus.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"cS5cMZ1QwyXmykzw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stone_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stone_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"WsiwVpzmutkYUbYf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_elder_harpy.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_elder_harpy.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"KvCmZEDNdX9SWVji": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant_scorpion.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant_scorpion.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"7WOG6LhllYsqGWrX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_great_bear.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_great_bear.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"VDX17T3oHn1McCPl": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hemonculus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hemonculus.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"sHjksyrru0ovIMkS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_jarl.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_jarl.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"GKJTZHw19h7uzvIg": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dreugh.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dreugh.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"tnnKWCw6mNerJJhr": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flesh_atronach.png",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flesh_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"oeOyzI1S8pbTWqzZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_minotaur.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_minotaur.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"AdlnooTZRFjhmFD7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_nightblade.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_nightblade.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8BU1FwKoZba7YL8Q": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_reef_viper.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_reef_viper.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"Qupczx4GxgVuUqir": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_senche-raht_graveprowler.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_senche-raht_graveprowler.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"SY7J2V1K8Lb4jXvG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skaafin_miscreal.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skaafin_miscreal.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"msJOZ8ePJ1Y90iYq": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skaafin_warrior.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skaafin_warrior.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"61oF68SXvnkc0uIr": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skinned_hound.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skinned_hound.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"81sjy6p9XVZzQM09": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_snow_wolf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_snow_wolf.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"nNVsy6mt3BFMj8rI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_thalmor_agent.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_thalmor_agent.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"AKusC3JkJVBvcIj6": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_thalmor_mage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_thalmor_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"1a5Gmrb7fqlWcyTF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_trove_scamp.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_trove_scamp.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"HNCok7UasEczPsWW": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vigilant.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vigilant.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"fK7STzPudLmVSMTy": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_voriplasm.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_voriplasm.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"4X1MvpcF8ZuhaThZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wereboar.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wereboar.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"0FO1yhKRK78NJDSj": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werelion.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werelion.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ZHfIA0sSPjUjsFvm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werewolf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werewolf.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Cp06HzIPVUTCopyf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wispmother.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wispmother.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"zHc1WWcOPetIUMHz": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_witchblade.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_witchblade.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"w7CyLXFSaQy8IAyr": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_air_atronach.png",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_air_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"tidNtGqkj0CQVn89": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ayleid_guardian.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ayleid_guardian.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"4xZbfFGw7lygAYhd": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_ringleader.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bandit_ringleader.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"KfUxnTp7BMIHoPq0": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_caitiff.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_caitiff.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"du9u4knlzoB256yy": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_caitiff.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_caitiff.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8KJlWXUUgVAajAcO": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"gkDX9H0WFBEVhPEJ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"cFHE7XNw6fu2OYss": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"W2r1G0Up6YEfZ8IZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"D3rd0c58oiPX6TXz": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8d4Mf401qdBbc6MV": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"NBxscPfM8C8QfzGL": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"C6s8b0dBhQmrUjdZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"2d50UpOTdEuUMN1j": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goblin_warlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goblin_warlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"eKGPIF08BRFJ50fI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hollowjack_wraith.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hollowjack_wraith.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"ZBi97pr3n2TQybsh": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hulking_draugr.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hulking_draugr.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"CGU3JfMEQFePGe1l": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_indrik.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_indrik.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"2TtE90PLWrNhpr3x": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_minotaur_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_minotaur_shaman.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"2Yvoy4bZoeMW5dUs": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_naga_warrior.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_naga_warrior.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"PhpNYqpbcjrFmXqF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_riekling_chief.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_riekling_chief.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	},
+	"mLzbHLasoIgu3Toj": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_riekr_chieftain.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_riekr_chieftain.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"w17k0w6RwzigRxTj": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_shade.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_shade.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"KsQnPJPgpMjavM86": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stormcloak_snow-hammer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stormcloak_snow-hammer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"LWWy8LlEY9ZaUgor": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_void_rot.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_void_rot.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"qgXjRFIR9CNWhoGv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_watcher.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_watcher.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"P9HLYdsahEYUkaR0": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werebat.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werebat.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"uu6b9XBLp19lo6f4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werebear.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werebear.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"udn2xmvrsypEtZDP": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wereshark.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wereshark.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"TiIiXkvyG8fcckIm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alikr_warrior.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alikr_warrior.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bY14uA7m62d626hn": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alikr_warrior.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alikr_warrior.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"CmzRypmpc0qY4oWb": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_amiel_richton.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_amiel_richton.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"nT493tHZHKvEeUEd": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_argonian_behemoth.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_argonian_behemoth.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"x3CMJp516wZFev3A": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bloodknight.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bloodknight.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"VN1owMzqjMy8zqtc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_chaurus_reaper.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_chaurus_reaper.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"8ur1YVoKuVdy0rvo": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_companion_circle_initiate.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_companion_circle_initiate.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"IAuRbKNvfzy5Qidr": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_crusader.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_crusader.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"F3iMtZuQmGG12F9Q": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_do-m’athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_do-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"IptiT7Jk24PqjdMW": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dread_zombie.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dread_zombie.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Oyc5EOivAtPwAuRE": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_duneripper.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_duneripper.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"H0xVx7T6V997CLRk": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_frost_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_frost_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"Vrh8yO8Gw4h6i0a4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant_crocodile.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant_crocodile.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"asR0F3ypd5QQcXDL": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_gryphon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_gryphon.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"JUnw0v7ChgNnmynC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_half-sea_giant_raider.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_half-sea_giant_raider.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"m4hzHJTDwK8Egc6m": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hunger.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hunger.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"0GCXYXPDIJDUOI21": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ranger.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ranger.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"6bB8eZDVCLp0wxD7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_reach_witch.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_reach_witch.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"nEVu7nGXWGAmaHqK": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_rogue.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_rogue.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"zP152Cm79GVdMUCb": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skaafin_masquer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skaafin_masquer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"r84fqIj4iBu8XTBA": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_spellsword.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_spellsword.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"X1saOL5htqKoCF3Q": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_spriggan_matron.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_spriggan_matron.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"d4g3EM5n0yUH0ElI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stone_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stone_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"nLUtNOLNVGpfOPWZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_swarm_of_slaughterfish.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_swarm_of_slaughterfish.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"NaykA8jWHpWDcpsD": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vampire.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vampire.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"27n1tPuQfFaiVgso": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vampiric_bear.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vampiric_bear.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"z2vcnQfFgNXUsOCm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vampiric_sabre_cat.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vampiric_sabre_cat.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"ITBzZgaR1mQcNGwt": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_voriplasmic_haj_mota.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_voriplasmic_haj_mota.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"aFAY0VDpxzJBsJFS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_storm_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_storm_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"uTUR395A4hpNWEYh": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werecrocodile.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werecrocodile.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"AePwdL3Z8HqUahdO": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werewolf_alpha.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werewolf_alpha.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"oW63dfiZJCnUyBT9": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wraith.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wraith.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"5dEJ48wdHbkdW2F8": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_aela_the_huntress.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_aela_the_huntress.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"vDAp07iZ3SQykVPR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_armored_troll.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_armored_troll.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"hJhAe7AfXHxkydR2": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_barbarian.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_barbarian.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"e9e3wIu7ujbFZlE2": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_brynjolf.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_brynjolf.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"kJcdtRZb7I9mDNO5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_burnt_spriggan.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_burnt_spriggan.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"hS3OL2jOUs0vMesu": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_cold-flame_atronach.png",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_cold-flame_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Jp6dJ5WxrLIcctgB": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_Dar-m’Athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dar-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"pO07fTtYoUSfVmnu": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dawnguard_hunter.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dawnguard_hunter.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"4w9KCS5BJ3Fh6lD4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_draugr_scourge.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_draugr_scourge.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"m1XXAdR4eEY3C0p6": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_falmer_shaman.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_falmer_shaman.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"MIBGxrmIwVR0zbrN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flesh_atronach.png",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flesh_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"QoFADjBvVP6DQxF5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_forest_troll.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_forest_troll.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"qrweae3404mSAv9M": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_frost_troll.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_frost_troll.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"Yaa3pvz55YkYU0ah": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_salamander.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_salamander.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"roqyD4m4OgBKzKsN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_haj_mota.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_haj_mota.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"cVBaX0FKx47EuCvF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_haj_mota.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_haj_mota.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"N3GGoc0xKcyFZblp": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_half-sea_giant_stormcaller.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_half-sea_giant_stormcaller.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ZhvHNpS8leqyzPGR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_forest_troll.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_forest_troll.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"j2LMcKK5BXAR8ARP": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_legionnaire_legate.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_legionnaire_legate.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"qLHWVDM0O3iToprM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_mammoth.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_mammoth.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"uzfJ9W2u9D2s4cdC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_minotaur_lord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_minotaur_lord.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"LtDrF7cFaaHk6HzH": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_nighthollow_vampire.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_nighthollow_vampire.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"DzxYmwhTmFvSykIn": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_river_troll.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_river_troll.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"8I6n5XTLtCkcJ3FC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_shade_colossus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_shade_colossus.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"K3SADvwQFfzNPA5T": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stone_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stone_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"FEOc8qhyfjrCNE9B": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stormcloak_stormblade.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stormcloak_stormblade.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"NQZxnik0Xt8nYP8S": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vampiric_senche-raht.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vampiric_senche-raht.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"FHub5bG3vuQOTGjR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_winged_twilight_matriarch.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_winged_twilight_matriarch.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"QO7euI6MxC3RGZqv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_air_atronach.png",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_air_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"CZJDA5czcmCUv8Rc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ayleid_wight_lord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ayleid_wight_lord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"lKFYpLzviif0tmJE": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_blade.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_blade.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"KytJm0sC6FsTuicN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_blade.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_blade.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7bVfslAQpUZZcsnf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bone_colossus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_bone_colossus.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"c8djR9ncoPmdrFuR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_daedroth.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_daedroth.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"JhiWUJvxwvnpsR4g": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynval.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynval.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"w4vCHb8QCnVNX1n1": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynval_mage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynval_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"mQKRR0CR0bqjQlEN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynval_mage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynval_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"MgnhdBt2IhoYfFA3": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynval_mage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynval_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"JAn3Sa3YOT9fWDzC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynval_mage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynval_mage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"aJORDxvZvBLZ5qJN": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynval.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynval.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"amk1NadInHb5ZaxH": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_centurion.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_centurion.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"fiGIbHhecOYBqvdl": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"gP6J1exQK6PehAJo": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_goutfang_adept.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_goutfang_adept.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"sO0aG26bzepDLHb2": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_grahl.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_grahl.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"9SaODcalF2MqK5Ii": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hag-witch.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hag-witch.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"NrSbrWhvJui4jGuh": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hag-witch.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hag-witch.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"6isBTZiTBekuaNeR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_iron_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_iron_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"nLWXmJ6Q4Jk5c0Yt": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_lydia.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_lydia.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"8E0SWxSXye7aiK1x": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ogrim.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ogrim.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"LXzyES27IDNMzClh": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_iron_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_iron_atronach.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ndyrMdqVxulDVMHL": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_undead_giant.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_undead_giant.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"yOSxhBucCdlIt30p": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alfiq_conjurer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alfiq_conjurer.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
+	"oHYSGPbkoTyzkfRj": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_briarheart_wildling.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_briarheart_wildling.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"VnEDjwECeoOs3VRi": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_cicero.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_cicero.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ZLBwzvPIpu1Qb65j": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_Dar-m’Athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_do-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"2YWbJDnSqPTFqi53": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dark_seducer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dark_seducer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"fhUtMGfrX7zrenQx": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_do-m’athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_do-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"mrEVgoKK28wFgMJE": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_falmer_warmonger.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_falmer_warmonger.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bI0MisxHzi5x10N2": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_golden_saint.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_golden_saint.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"SU7Nb2HDfdie1TPE": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_grievous_twilight.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_grievous_twilight.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"0PTPnXuhGWFcys6J": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_j'zargo.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_j'zargo.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"JA6J9Xy5sUtunSyZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_jo-m'athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_jo-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Z0kfqtdop6t71ozZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_knight_of_order.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_knight_of_order.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"9fbu5mfApidhLVsv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_lord_hollowjack.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_lord_hollowjack.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"eB6Xd4Ii5nJHk2es": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_miregaunt.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_miregaunt.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"eu5pzcJ9HTRH0Htv": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_snow_whale.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_snow_whale.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"oxmNORlRdPFeDOta": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_spider_daedra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_spider_daedra.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"HLmL07oqTCFrIKbi": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_strangler.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_strangler.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"RYeRtSbA7RNcKKjx": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_thalmor_justicar.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_thalmor_justicar.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"2EMwDKHoLojxBIj0": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_voidmother.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_voidmother.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"DNYhprniTWyeG6dQ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ash_guardian.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ash_guardian.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"al9jiwXXQwryuyBd": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_astrid.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_astrid.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"HChTD390htwTMVAi": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_briarheart_elkeye.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_briarheart_elkeye.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"qDtrDutkid027pbB": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynreeve.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynreeve.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"nmagA3ubQZNVexfk": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynreeve_battlemage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynreeve_battlemage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"mRXxVzQQe1thg86a": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynreeve_battlemage.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynreeve_battlemage.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"UVTQ1vuCJ6yUEens": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_kynreeve.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_kynreeve.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"MteSgARL6lgZX8pG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_galmar_stone_fist.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_galmar_stonefist.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"wE2bJAs56HOb7Vbd": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant_matriarch.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant_matriarch.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"UPv7gNVC87gisq23": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_giant_slaughterfish.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_giant_slaughterfish.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"gxhRWsFUorzP8Epe": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_greybeard.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_greybeard.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"fiDyCiwDEQ8vcH3h": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_jo-m'athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_jo-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"teHw6EevvPb527jQ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_legate_rikke.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_legate_rikke.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"jB7ualm4lK6PF63X": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_leiminid.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_leiminid.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"sC1pXKLK4LTPihgQ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_nereid.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_nereid.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7DgqasOPH1TYU9hx": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_shadowscale.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_shadowscale.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"YGpPXtRhNKE6PO5U": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_sorcerer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sorcerer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"uomycalWwkBs8rdU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_spriggan_earth_mother.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_spriggan_earth_mother.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"kWZL5PGerGMvZy70": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_storm_atronach.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_storm_atronach.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"Ve6LIfhwhv0EN51t": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_prophet.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_prophet.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"esLaVGgbPgmNXnza": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_varen_aquilarios.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_varen_aquilarios.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"Oh3dbzL6GytCBq1o": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wamasu.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wamasu.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"Mxuwu4schMo9KdPX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_werewolf_behemoth.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_werewolf_behemoth.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"eJzZnzMMIQo4tu7A": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_blood_scion.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_blood_scion.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7JSzhn9O0iWFMvkH": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_draugr_death_overlord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_draugr_death_overlord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"hy6zMNTqKCAsTuTI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_frost_giant.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_frost_giant.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"d7ONogiqwZ0dvk9d": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_necromancer.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_necromancer.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"6nXsxJoOPHSvcXsJ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_lich.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_lich.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"hNdvczg96q9xKqNK": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_psijic_monk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_psijic_monk.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7c2h80SxI9p23XxM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_stone_husk.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_stone_husk.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"aiTIPUKeGnhxS7B4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_thalmor_head_ambassador.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_thalmor_head_ambassador.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"jkOQqJk66qiMB1cu": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_delphine.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_delphine.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"2rx10VH5vgLyX0KD": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dram.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dram.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"xBZgDH6qy8nYte3c": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_markynaz.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_markynaz.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"HUVJ7y5qTf57tWbt": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_markynaz.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_markynaz.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"jk2E4owyA3aPh087": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_dynastor.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_dynastor.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"5BUp6Bi8MfM0PbDS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_lyris_titanborn.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_lyris_titanborn.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"lcTnsX3Oafn7NdKG": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wrath_of_sithis.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wrath_of_sithis.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bPwgIklL0mTlWwcM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_general_tullius.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_general_tullius.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"3uNilF0IHF5nTSMU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hagraven.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hagraven.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"CQYwqM4W2FT9jbGo": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hist_speaker.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hist_speaker.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"1uS7g1snY7IVYCLp": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_sea_giant.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sea_giant.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"SQHd3o8bTmleTmEo": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_sovngarde_hero.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sovngarde_hero.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"KWbIrKlziLIQAGo1": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_hagraven.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_hagraven.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bnPb4LuxaQuhaV3y": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ulfric_stormcloak.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ulfric_stormcloak.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"icp0pcI6NvjIwND5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_xivilai.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_xivilai.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"x43hi3Lpvt3kiOml": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dro'm-athra.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dro-m'athra.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"bU6MvCS4sf141g6B": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_harvester.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_harvester.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"KXw1AuKbqJ9fqNTw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_lich.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_lich.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"vtuxZMGsFNtK35aX": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_sai_sahan.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sai_sahan.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"NL57kXrjkOtM7XrF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_serana.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_serana.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"R0TJYUaNWXADmRVP": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_udyrfrykte.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_udyrfrykte.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"ahOa4tqqmQOnJnNc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_udyrfrykte.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_udyrfrykte.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"eOAHCYn2vbXJybOh": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_cyrus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_cyrus.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"YgoXbHLvfNap5rNk": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_undead_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_undead_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"Xahjiu5lMwAJFdcm": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_azureblight_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_azureblight_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"zAPjUKgVnCaVodhK": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_domihaus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_domihaus.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"vMtr923xxlRp3W4P": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dragon_priest.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dragon_priest.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"E0uz0Ig5rehcQpWD": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_gryphon_matriarch.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_gryphon_matriarch.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"FZxRLujYV7WDtpWb": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_icewing_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_icewing_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"dHwYksyAuMq31G34": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_sea_sload.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_sea_sload.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"RRg77PB4VGE80pN4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_selene.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_selene.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"ovkkzEdbECxxR34u": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_selene_spider_form.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_selene_spider_form.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"nDEyUhawlMlSaZts": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_serana.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_serana.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"aUq9IVXBOJVUOEut": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_daedric_titan.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_daedric_titan.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"9XsmGkrvzZ4pKjQU": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_valkynaz.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_valkynaz.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"MzHq41QJ3KXEfJQC": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_valkynaz.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dremora_valkynaz.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"jB0rBHISV6WlSSyO": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dwarven_colossus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dwarven_colossus.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"zLyFUnnTkL63DFon": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flamespear_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flamespear_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"G7ItTPTRgktTR7eK": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vampire_lord.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vampire_lord.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"EXU3RLeFxliACB26": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_abnur_tharn.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_abnur_tharn.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"YSD3v9dDqxaPiGKF": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_cyrus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_cyrus.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"xeskbai1yTvrtbd7": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_squalleater_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_squalleater_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"2qmAVq8etyMgzmn4": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_dragonborn.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_dragonborn.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"7sGpr6r8qhckEYsS": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_serpentine_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_serpentine_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"eWjlCALCCExyQ0ku": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flesh_colossus.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_flesh_colossus.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"AU5Ipt7QS5Mpkao1": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_blood_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_blood_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"dBjt2iOTSoeEa8GT": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_fa-nuit-hen.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_fa-nuit-hen.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"vcPG57PNRdBWOWEP": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_mannimarco.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_mannimarco.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"XsOD1coZWmyaKPfM": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_miraak.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_miraak.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"YeLohpXC33pOMQyR": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_pelinal_whitestrake.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_pelinal_whitestrake.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"BGnK2impNU30vRVc": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_azureblight_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_azureblight_dragon.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"N2sJM8ocYzFMmF03": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_glacial_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_glacial_dragon.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"zDYLdC26wpbIfuSa": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_lord_harkon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_lord_harkon.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"HO0k5JFcapiy0GqT": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_revered_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_revered_dragon.png",
+				"scaleX": "3.0",
+				"scaleY": "3.0"
+			}
+		}
+	},
+	"Cv2GIoJ2fC4jMShi": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_daedric_siege_crawler.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_daedric_siege_crawler.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"CskfRyMcyoJjmr9l": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_wildfire_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_wildfire_dragon.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"JOwGm7IlkqIFeb19": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_squalleater_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_squalleater_dragon.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"lATFoLMKGHOrBgpW": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_paarthurnax.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_paarthurnax.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"blFYqIHiajYx8BX5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_swamp_leviathan.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_swamp_leviathan.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"FLO1WOMSLS7DsNpQ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_alduin.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_alduin.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"qrhH6TO2Sn6Tybmx": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_avatar_of_akatosh.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_avatar_of_akatosh.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"OutAl95SOFgt4Nuw": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_legendary_dragon.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_legendary_dragon.png",
+				"scaleX": "4.0",
+				"scaleY": "4.0"
+			}
+		}
+	},
+	"UHZTThnhe8PY9jNZ": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_skeleton_guardian.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_skeleton_guardian.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+	},
+	"irB33czXeUZXvDL5": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_celestial_spirit.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_celestial_spirit.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"LGuCLY8ofuQ5DYUI": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_celestial_spirit.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_celestial_spirit.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"BeEsblFfbmmuriTq": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_feral_guardian.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_feral_guardian.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+		"NyiiGwP1Zt8f7mqs": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_celestial_spirit.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_celestial_spirit.png",
+				"scaleX": "2.0",
+				"scaleY": "2.0"
+			}
+		}
+	},
+	"o1BFD06k9R7PA9Bl": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_vermin_swarm.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_vermin_swarm.png",
+				"scaleX": "0.8",
+				"scaleY": "0.8"
+			}
+		}
+	}
+  }
+}
