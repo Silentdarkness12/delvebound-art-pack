@@ -132,6 +132,16 @@
 			}
 		}
 	},
+	"YGtjEy8yY6nk8WJO": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_fiendroth.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_fiendroth.png",
+				"scaleX": "0.5",
+				"scaleY": "0.5"
+			}
+		}
+	},
 	"mT4rvNVaQNxCEF6F": {
 		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_flying_squirrel.webp",
 		"token": {
@@ -1143,7 +1153,7 @@
 		}
 	},
 	"8tcHKhGpopfF3LzS": {
-		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_neckbreaker.webp",
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_bandit_neckbreaker.png",
 		"token": {
 			"texture": {
 				"src": "modules/delvebound-art-pack/assets/token/token_bandit_neckbreaker.png",
