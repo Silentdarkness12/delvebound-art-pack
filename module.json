@@ -1,14 +1,12 @@
 {
   "id": "delvebound-art-pack",
   "title": "Delvebound Art Pack",
-  "description": "An unofficial addon for the Delvebound module for D&amp;D Fifth Edition, seamlessly integrating avatar, token art and item art for hundreds of sheets across the system. Once activated and enabled, no further modifications are needed to provide a quick and easy art setup for the various creatures in your campaign!",
-  "version": "1.1.0",
+  "description": "<p>An unofficial addon for the Delvebound module for D&amp;D Fifth Edition, seamlessly integrating avatar, token art and item art for hundreds of sheets across the system. Once activated and enabled, no further modifications are needed to provide a quick and easy art setup for the various creatures in your campaign!</p>",
+  "version": "1.2.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
-  "esmodules": [],
-  "styles": [],
   "relationships": {
     "requires": [
       {
@@ -28,7 +26,8 @@
   "authors": [
     {
       "name": "Sirus",
-      "discord": "sirus.exe"
+      "discord": "sirus.exe",
+      "flags": {}
     }
   ],
   "flags": {
@@ -36,6 +35,6 @@
       "dnd5e-art": "modules/delvebound-art-pack/map-dnd5e.json"
     }
   },
-  "manifest": "https://raw.githubusercontent.com/Silentdarkness12/delvebound-art-pack/refs/heads/main/module.json",
-  "download": "https://github.com/Silentdarkness12/delvebound-art-pack/releases/download/1.0.0/delvebound-art-pack.zip"
+  "manifest": "https://raw.githubusercontent.com/Silentdarkness12/delvebound/refs/heads/main/module.json",
+  "download": "https://github.com/Silentdarkness12/delvebound-art-pack/releases/download/1.1.0/delvebound-art-pack.zip"
 }

@@ -11,7 +11,7 @@
       }
     }
   },
-  "delvebound.delvebound-actors":{
+  "delvebound.delvebound-actors": {
 	  "0tzPMa0zKhlf2RLT": {
 		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_addax.webp",
       "token": {
@@ -5231,6 +5231,84 @@
 				"scaleY": "0.8"
 			}
 		}
-	}
+	},
+	"Ffc7ai8CepMeoygf": {
+		"actor": "modules/delvebound-art-pack/assets/avatar/avatar_ogrim.webp",
+		"token": {
+			"texture": {
+				"src": "modules/delvebound-art-pack/assets/token/token_ogrim.png",
+				"scaleX": "1.0",
+				"scaleY": "1.0"
+			}
+		}
+  },
+  "jQF2O0Sp3r7rUTDY": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_spider_daedra.webp",
+	  "token": {
+		  "texture": {
+			  "src": "modules/delvebound-art-pack/assets/token/token_spider_daedra.png",
+			  "scaleX": "1.0",
+			  "scaleY": "1.0"
+		  }
+	  }
+  },
+  "g6KC3w3loyRp54E8": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_scamp.webp",
+	  "token": {
+		  "texture": {
+			  "src": "modules/delvebound-art-pack/assets/token/token_scamp.png",
+			  "scaleX": "1.0",
+			  "scaleY": "1.0"
+		  }
+	  }
+  },
+  "1RQa6tIGECmnfrfd": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_skaafin_wretch.webp",
+	  "token": {
+		  "src": "modules/delvebound-art-pack/assets/token/token_skaafin_wretch.png",
+		  "scaleX": "1.0",
+		  "scaleY": "1.0"
+	  }
+  },
+  "NrUtEfSZCwpguNbj": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_flame_atronach.webp",
+	  "token": {
+		  "src": "modules/delvebound-art-pack/assets/token/token_flame_atronach",
+		  "scaleX": "1.0",
+		  "scaleY": "1.0"
+	  }
+  },
+  "JqaFVTEHRpEseuTi": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_frost_atronach",
+	  "token": {
+		  "src": "modules/delvebound-art-pack/assets/token/token_frost_atronach.png",
+		  "scaleX": "1.0",
+		  "scaleY": "1.0"
+	  }
+  },
+  "CnFwVhdbts7dZAKX": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_storm_atronach.webp",
+	  "token": {
+		  "src": "modules/delvebound-art-pack/assets/token/token_storm_atronach.png",
+		  "scaleX": "1.0",
+		  "scaleY": "1.0"
+	  }
+  },
+  "BDpgA4ESOi7ZGkf1": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_dremora_churl.webp",
+	  "token": {
+		  "src": "modules/delvebound-art-pack/assets/token/token_dremora_churl.png",
+		  "scaleX": "1.0",
+		  "scaleY": "1.0"
+	  }
+  },
+  "P2kiO9UcBcvQebBU": {
+	  "actor": "modules/delvebound-art-pack/assets/avatar/avatar_winged_twilight.webp",
+	  "token": {
+		  "src": "modules/delvebound-art-pack/assets/token/token_winged_twilight.png",
+		  "scaleX": "1.0",
+		  "scaleY": "1.0"
+	  }
   }
+}
 }
