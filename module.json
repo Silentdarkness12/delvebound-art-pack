@@ -35,6 +35,6 @@
       "dnd5e-art": "modules/delvebound-art-pack/map-dnd5e.json"
     }
   },
-  "manifest": "https://raw.githubusercontent.com/Silentdarkness12/delvebound/refs/heads/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Silentdarkness12/delvebound-art-pack/refs/heads/main/module.json",
   "download": "https://github.com/Silentdarkness12/delvebound-art-pack/releases/download/1.2.0/delvebound-art-pack.zip"
 }
